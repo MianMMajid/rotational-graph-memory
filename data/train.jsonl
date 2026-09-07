@@ -1,0 +1,16 @@
+{"text": "Instruction: Delete the red cube. -> Execution Array: XDC"}
+{"text": "Instruction: Delete the blue sphere. -> Execution Array: YDC"}
+{"text": "Instruction: Move the blue sphere to position 2 -> Execution Array: YMC"}
+{"text": "Instruction: Delete the blue sphere. -> Execution Array: YDB"}
+{"text": "Instruction: Move the blue sphere to position 4 -> Execution Array: YME"}
+{"text": "Instruction: Delete the red cube. -> Execution Array: XDA"}
+{"text": "Instruction: Delete the blue sphere. -> Execution Array: YDA"}
+{"text": "Instruction: Delete the red cube. -> Execution Array: XDB"}
+{"text": "Instruction: Delete the red cube. -> Execution Array: XDE"}
+{"text": "Instruction: Move the red cube to position 1 -> Execution Array: XMB"}
+{"text": "Instruction: Delete the blue sphere. -> Execution Array: YDE"}
+{"text": "Instruction: Move the blue sphere to position 1 -> Execution Array: YMB"}
+{"text": "Instruction: Move the blue sphere to position 3 -> Execution Array: YMD"}
+{"text": "Instruction: Move the red cube to position 2 -> Execution Array: XMC"}
+{"text": "Instruction: Move the red cube to position 3 -> Execution Array: XMD"}
+{"text": "Instruction: Move the red cube to position 0 -> Execution Array: XMA"}
